@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: docker.io/hyeyeon763/ec2:0.0.1 # 이름/레포 "hyeyeon763/ec2"로 고정
+          image: docker.io/hyeyeon763/ec2 # 이름/레포 "hyeyeon763/ec2"로 고정
           ports: [{ containerPort: 8000 }]
       # (private면)
       # imagePullSecrets:
