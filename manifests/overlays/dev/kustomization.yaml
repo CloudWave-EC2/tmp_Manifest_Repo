@@ -1,0 +1,5 @@
+resources:
+  - ../../base
+images:
+  - name: DOCKERHUB_USERNAME/demo
+    newTag: 0.0.1 # ← Jenkins가 이 숫자만 새 태그로 바꿔줌
