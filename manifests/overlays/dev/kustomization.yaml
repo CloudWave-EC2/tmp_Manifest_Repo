@@ -2,4 +2,4 @@ resources:
   - ../../base
 images:
   - name: hyeyeon763/ec2
-    newTag: 0.0.1
+    newTag: latest
