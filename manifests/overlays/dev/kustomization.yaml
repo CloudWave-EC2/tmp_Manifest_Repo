@@ -1,4 +1,4 @@
 resources:
   - ../../base
 images:
-  - name: hyeyeon763/ec2
+  - name: hyeyeon763/java
